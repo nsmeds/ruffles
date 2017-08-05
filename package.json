@@ -1,0 +1,15 @@
+{
+  "name": "ruffles",
+  "version": "0.0.1",
+  "description": "Music made with cracked.js",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
