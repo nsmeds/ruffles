@@ -1,4 +1,6 @@
-(function () {
+// exported module version not functional unless I realize a way to node-ify this.
+
+module.exports = function () {
 'use strict';
 
 /**
@@ -5198,4 +5200,4 @@ cracked.pitch2freq = function (pitch) {
     return 440.0 * Math.pow(2, ((Math.floor(pitch) - 69) / 12));
 };
 
-})();
+}
