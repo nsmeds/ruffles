@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: 'Andale Mono', monospace;
+}
+
+img {
+    padding: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 0.8em;
+}
